@@ -19,7 +19,7 @@ _He Y_, Qian DC, Diao JA, et al. Nature Communications (2023)
 
 **What are the multi-omic signatures underlying disease heterogeneity across diverse populations?**  
 [Multi-trait and multi-ancestry genetic analysis of comorbid lung diseases and traits improves genetic discovery and polygenic risk prediction](https://www.medrxiv.org/content/10.1101/2024.08.25.24312558v2)  
-He Y, Lu W, Jee YH, et al. medRxiv (2024)  
+_He Y_, Lu W, Jee YH, et al. medRxiv (2024)  
 
 **Can we improve medical decision-making for equitable care?**  
 [Implications of Race Adjustment in Lung-Function Equations](https://www.nejm.org/doi/10.1056/NEJMsa2311809)  
