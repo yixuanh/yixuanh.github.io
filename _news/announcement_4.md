@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Yixuan He will be giving an oral presentation at ASHG 2024 in Denver Colorado on November 7th as a semi-finalist of the Trainee Research Excellence Award!
+Yixuan will be giving an oral presentation at ASHG 2024 in Denver Colorado on November 7th as a semi-finalist of the Trainee Research Excellence Award!
