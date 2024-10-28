@@ -8,7 +8,7 @@ profile:
   image: Headshot_YH2.JPG
   image_circular: true # crops the image to make it circular
   
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
