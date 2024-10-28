@@ -13,7 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-**We are hiring! Please see job description [here](/al-folio/publications/) and contact me if you are interested!**
+**We are hiring! Please see job description [here](https://www.heylab.org/positions/) and contact me if you are interested!**
 
 We are computational geneticists interested in studying how **genetic and environmental factors** contribute to disease manifestation and management. 
 
