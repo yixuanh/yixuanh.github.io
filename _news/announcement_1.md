@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our manuscript, titled: "Multi-trait and multi-ancestry genetic analysis of comorbid lung diseases and traits improves genetic discovery and polygenic risk prediction" is out as a Preprint on [medRxiv](https://www.medrxiv.org/content/10.1101/2024.08.25.24312558v1)!
+Our manuscript, titled: "Multi-trait and multi-ancestry genetic analysis of comorbid lung diseases and traits improves genetic discovery and polygenic risk prediction" is out as a preprint on [medRxiv](https://www.medrxiv.org/content/10.1101/2024.08.25.24312558v1)!
