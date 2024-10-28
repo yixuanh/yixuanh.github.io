@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Research interests
+title: Research
 description: Highlights of our previous and ongoing projects
 nav: true
 nav_order: 3
