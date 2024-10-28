@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Research interests
 description: Highlights of our previous and ongoing projects
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 **How do genetic and environmental factors interact in human disease?** <br />
