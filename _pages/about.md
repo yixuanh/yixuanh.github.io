@@ -12,6 +12,7 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
+![banner](/assets/img/banner.png)
 
 **We are hiring! Please see job description [here](https://www.heylab.org/positions/) and contact me if you are interested!**
 
