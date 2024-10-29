@@ -1,10 +1,10 @@
 ---
 layout: profiles
 permalink: /aboutme2/
-title: About Me
+title: About
 description: 
 nav: true
-nav_order: 7
+nav_order: 2
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
