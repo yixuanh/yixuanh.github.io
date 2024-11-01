@@ -194,14 +194,14 @@ collections:
   labnews:
     output: true
     permalink: /:collection/:title/
-  news:
-    defaults:
-      layout: post
-    output: false
-    permalink: /:collection/:title/
-  projects:
-    output: false
-    permalink: /:collection/:title/
+  #news:
+  #  defaults:
+  #    layout: post
+  #  output: false
+  #  permalink: /:collection/:title/
+  #projects:
+  #  output: false
+  #  permalink: /:collection/:title/
 
 announcements:
   enabled: true
