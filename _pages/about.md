@@ -14,6 +14,9 @@ social: false # includes social icons at the bottom of the page
 ---
 **We are hiring! Please see job description [here](https://www.heylab.org/positions/) and contact me if you are interested!**
 
+_Research group led by Yixuan He, PhD in the Human Genetics Center and the Department of Epidemiology at the University of Texas Health Science Center in Houston, Texas.
+_
+
 We are computational geneticists interested in studying how **genetic and environmental factors** contribute to disease manifestation and management. 
 
 Our goal is to develop and apply **statistical and machine-learning** methods to better understand the mechanisms of disease manifestation and identify drivers of disease heterogeneity. We hope to leverage novel computational methods and large-scale **multi-omic data from diverse populations** to enable **precision medicine and equitable care**.
