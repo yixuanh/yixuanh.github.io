@@ -12,7 +12,9 @@ nav_order: 4
 Please join us if you are interested in conducting translational biomedical research with genomics or big data!
 
 We are recruiting for the following positions:
-Postdoctoral Fellowship in Statistical Genetics (dry lab)
-Staff Scientist (dry lab)
+ <br /> 
+-Postdoctoral Fellowship in Statistical Genetics (dry lab)
+ <br /> 
+-Staff Scientist (dry lab)
 
 To apply for any of these positions, please send an email with a cover letter describing your interests, a CV, and contact information from two references to [yixuan.he@uth.tmc.edu](mailto:yixuan.he@uth.tmc.edu). Please format your subject line as “[YOUR NAME] APPLICATION”.
