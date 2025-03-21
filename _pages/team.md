@@ -28,7 +28,5 @@ friends_of_the_lab:
     - image: yonho.png
       name: Yon Ho Jee
       role: Harvard School of Public Health
-
-  lab_alumni:
     
 ---
