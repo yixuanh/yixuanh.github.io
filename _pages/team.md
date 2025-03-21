@@ -20,28 +20,19 @@ profiles:
       content: about_jiawei.md
       image_circular: true
       more_info: >
-    - align: left
-      image: Siqi.png
-      content: about_siqi.md
-      image_circular: true
-      more_info: >
-
+    
   friends_of_the_lab:
     - align: left
-      image: YonHo.png
-      content: about_yonho.md
+      image: Wenhan.jpg
       image_circular: true
       more_info: >
+        **Wenhan Lu**
     - align: right
-      image: YonHo.png
-      content: about_yonho.md
+      image: yonho.jpeg
       image_circular: true
       more_info: >
+        **Yon Ho Jee**
 
   lab_alumni:
-    - align: right
-      image: FormerMember.png
-      content: about_formermember.md
-      image_circular: true
-      more_info: >
+    
 ---
