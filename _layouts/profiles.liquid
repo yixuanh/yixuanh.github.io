@@ -48,7 +48,7 @@ layout: page
                 {% else %}
                   {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
                 {% endif %}
-                <img src="{{ site.baseurl }}/{{ profile_image_path }}" class="{{ profile_image_class }}" alt="{{ profile.name }}">
+                  <img src="{{ site.baseurl }}/{{ profile_image_path }}" class="{{ profile_image_class }}" alt="{{ profile.name }}" style="max-width: 150px; height: auto;">
               {% endif %}
               <h4>{{ profile.name }}</h4>
               <p style="color: #007acc;">{{ profile.role }}</p>
