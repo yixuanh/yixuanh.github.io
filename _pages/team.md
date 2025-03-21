@@ -20,18 +20,14 @@ profiles:
       content: about_jiawei.md
       image_circular: true
       more_info: >
-    
-  friends_of_the_lab:
-    - align: left
-      image: Wenhan.png
-      image_circular: true
-      more_info: >
-        **Wenhan Lu**
-    - align: right
-      image: yonho.png
-      image_circular: true
-      more_info: >
-        **Yon Ho Jee**
+
+friends_of_the_lab:
+    - image: Wenhan.png
+      name: Wenhan Lu
+      role: Broad Institute of Harvard and MIT
+    - image: yonho.png
+      name: Yon Ho Jee
+      role: Harvard School of Public Health
 
   lab_alumni:
     
