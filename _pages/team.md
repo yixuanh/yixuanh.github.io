@@ -4,7 +4,7 @@ permalink: /team/
 title: Team
 description: 
 nav: true
-nav_order: 2
+nav_order: 4
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -12,7 +12,7 @@ profiles:
   current_members:
     - align: left
       image: Yixuan.png
-      content: about_yixuan.md
+      content: about_mido.md
       image_circular: true
       more_info: >
     - align: right
