@@ -16,7 +16,7 @@ profiles:
       image_circular: true
       more_info: >
     - align: right
-      image: Jiawei.png
+      image: jiawei.jpeg
       content: about_jiawei.md
       image_circular: true
       more_info: >
