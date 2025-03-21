@@ -9,7 +9,7 @@ nav_order: 8
 ### New lab member
 **March 17** Jiawei has joined our lab, welcome!
 
-## New lab member
+### New lab member
 **Feb 1, 2025** Siqi has joined our lab, welcome!
 
 ### We've moved to Houston
