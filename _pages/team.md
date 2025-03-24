@@ -20,6 +20,12 @@ profiles:
       content: about_jiawei.md
       image_circular: true
       more_info: >
+    - align: left
+      image: Siqi.png
+      content: about_siqi.md
+      image_circular: true
+      more_info: >
+        
 
 friends_of_the_lab:
     - image: Wenhan.png
