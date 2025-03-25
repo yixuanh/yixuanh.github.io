@@ -7,10 +7,10 @@ nav: true
 nav_order: 8
 ---
 ### New lab member
-**March 17** Jiawei has joined our lab, welcome!
+**March 17** [Jiawei](https://www.heylab.org/team/) has joined our lab, welcome!
 
 ### New lab member
-**Feb 1, 2025** Siqi has joined our lab, welcome!
+**Feb 1, 2025** [Siqi](https://www.heylab.org/team/) has joined our lab, welcome!
 
 ### We've moved to Houston
 **Jan 1, 2025** Yixuan has joined the [UTHealth School of Public Health](https://sph.uth.edu/campuses/houston) as an Assistant Professor! 
