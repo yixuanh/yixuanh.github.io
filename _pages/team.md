@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   current_members:
     - align: left
-      image: Mido.png
+      image: headshot.png
       content: about_mido.md
       image_circular: true
       more_info: >
