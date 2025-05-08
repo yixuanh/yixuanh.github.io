@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /positions/
-title: Positions
+title: Join us
 description: 
-nav: false
-nav_order: 4
+nav: ture
+nav_order: 5
 ---
 
 **We're hiring!**
