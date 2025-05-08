@@ -9,12 +9,9 @@ nav_order: 6
 
 Yixuan He
 
-Department of Epidemiology 
-
-Human Genetics Center
-
-1200 Pressler St
-
+Department of Epidemiology < br / >
+Human Genetics Center < br / >
+1200 Pressler St < br / >
 Houston, TX 77030
 
 Email: [yixuan.he@uth.tmc.edu](mailto:yixuan.he@uth.tmc.edu)
