@@ -7,7 +7,7 @@ nav: true
 nav_order: 7
 ---
 
-Yixuan He
+Yixuan He, PhD
 
 Department of Epidemiology 
 <br /> 
