@@ -4,7 +4,7 @@ permalink: /labnews/
 title: News
 description: 
 nav: true
-nav_order: 8
+nav_order: 5
 ---
 ### New lab member
 **March 17** [Jiawei](https://www.heylab.org/team/) has joined our lab, welcome!
