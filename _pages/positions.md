@@ -3,7 +3,7 @@ layout: page
 permalink: /positions/
 title: Join us
 description: 
-nav: ture
+nav: true
 nav_order: 5
 ---
 
