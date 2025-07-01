@@ -31,15 +31,16 @@ profiles:
       image_circular: true
       more_info: >
     - align: left
-      image: alethea.jpeg
-      content: about_alethea.md
-      image_circular: true
-      more_info: >
-    - align: right
       image: muhammad.png
       content: about_muhammad.md
       image_circular: true
       more_info: >
+    - align: right
+      image: alethea.jpeg
+      content: about_alethea.md
+      image_circular: true
+      more_info: >
+
         
 
 friends_of_the_lab:
