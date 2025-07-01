@@ -1,0 +1,3 @@
+**<span style="font-size: 1.5em;">Muhammad Rehan</span>**  
+<span style="color: #007acc;"><i>Masters Student</i></span>  
+Muhammad recently graduated with a degree in Biomedical Engineering from the University of Texas at Austin and is now pursuing a Master’s in Bioengineering at Rice University. His current research focuses on lung cancer in never-smokers, using multi-omic approaches to uncover key biomarkers and risk factors. Muhammad is passionate about the intersection of medicine and engineering, aiming to develop innovative, data-driven solutions for cancer detection and treatment. In his free time, Muhammad enjoys playing soccer, traveling, and playing the guitar.
