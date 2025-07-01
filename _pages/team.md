@@ -27,7 +27,7 @@ profiles:
       more_info: >
     - align: right
       image: diay.png
-      content: about_diay.md
+      content: about_diya.md
       image_circular: true
       more_info: >
     - align: left
