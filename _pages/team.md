@@ -26,12 +26,12 @@ profiles:
       image_circular: true
       more_info: >
     - align: right
-      image: diay.png
+      image: diya.jpg
       content: about_diya.md
       image_circular: true
       more_info: >
     - align: left
-      image: alethea.png
+      image: alethea.jpeg
       content: about_alethea.md
       image_circular: true
       more_info: >
