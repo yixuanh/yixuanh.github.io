@@ -6,6 +6,9 @@ description:
 nav: true
 nav_order: 5
 ---
+### New lab members
+**June 2** [Maihediya, Alethea, and Muhammad](https://www.heylab.org/team/) have joined our lab, welcome!
+
 ### New lab member
 **March 17** [Jiawei](https://www.heylab.org/team/) has joined our lab, welcome!
 
