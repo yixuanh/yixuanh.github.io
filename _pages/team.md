@@ -21,21 +21,26 @@ profiles:
       image_circular: true
       more_info: >
     - align: left
+      image: huiying.jpg
+      content: about_huiying.md
+      image_circular: true
+      more_info: >
+    - align: right
       image: Siqi.png
       content: about_siqi.md
       image_circular: true
       more_info: >
-    - align: right
+    - align: left
       image: diya.jpg
       content: about_diya.md
       image_circular: true
       more_info: >
-    - align: left
+    - align: right
       image: muhammad.png
       content: about_muhammad.md
       image_circular: true
       more_info: >
-    - align: right
+    - align: left
       image: alethea.jpeg
       content: about_alethea.md
       image_circular: true
