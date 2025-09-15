@@ -14,8 +14,8 @@ nav_order: 5
 
 ### Lab outing
 **August 2025** Lunch to celebrate the end of the summer term
-| <img src="{{ '/assets/img/lab092025.jpeg' | relative_url }}" width="200"> | <img src="{{ '/assets/img/lab092025_2.jpeg' | relative_url }}" width="200"> |
-|---|---|
+
+| <img src="{{ '/assets/img/lab092025.jpeg' | relative_url }}" width="300"> | <img src="{{ '/assets/img/lab092025_2.jpeg' | relative_url }}" width="300"> |
 
 ### New lab members
 **June 2025** [Maihediya, Alethea, and Muhammad](https://www.heylab.org/team/) have joined our lab, welcome
