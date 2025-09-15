@@ -16,6 +16,10 @@ nav_order: 5
 **August 2025** Lunch to celebrate the end of the summer term <br>
 | <img src="{{ '/assets/img/lab092025.jpeg' | relative_url }}" width="300"> | <img src="{{ '/assets/img/lab092025_2.jpeg' | relative_url }}" width="300"> |
 
+### Student presentations
+**August 2025** Alethea and Muhammad presented their summer research projects <br>
+| <img src="{{ '/assets/img/alethea_pres.jpg' | relative_url }}" width="300"> | <img src="{{ '/assets/img/alethea_pres_2.jpg' | relative_url }}" width="300"> | <img src="{{ '/assets/img/mposter.jpeg' | relative_url }}" width="300"> |
+
 ### New lab members
 **June 2025** [Maihediya, Alethea, and Muhammad](https://www.heylab.org/team/) have joined our lab, welcome
 
