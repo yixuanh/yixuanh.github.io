@@ -46,5 +46,5 @@ profiles:
       image: muhammad.png
       content: about_muhammad.md
       image_circular: true
-      more_info: >  
+      more_info: >
 ---
