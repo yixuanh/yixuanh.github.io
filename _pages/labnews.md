@@ -13,7 +13,7 @@ nav_order: 5
 **September 2025** [Huiying](https://www.heylab.org/team/) has joined our lab, welcome
 
 ### Lab outing
-***August 2025** Lunch to celebrate the end of the summer term
+**August 2025** Lunch to celebrate the end of the summer term
 <p float="left">
   <img src="/assets/images/lab092025.jpeg" width="45%" />
   <img src="/assets/images/lab092025_2.jpeg" width="45%" />
