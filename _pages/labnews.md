@@ -14,7 +14,7 @@ nav_order: 5
 
 ### Lab outing
 **August 2025** Lunch to celebrate the end of the summer term
-| ![]({{ '/assets/img/lab092025.jpeg' | relative_url }}){: width="200" } | ![]({{ '/assets/img/lab092025_2.jpeg' | relative_url }}){: width="200" } |
+| <img src="{{ '/assets/img/lab092025.jpeg' | relative_url }}" width="200"> | <img src="{{ '/assets/img/lab092025_2.jpeg' | relative_url }}" width="200"> |
 |---|---|
 
 ### New lab members
