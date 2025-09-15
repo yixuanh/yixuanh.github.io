@@ -36,24 +36,16 @@ profiles:
       image_circular: true
       more_info: >
     - align: right
-      image: muhammad.png
-      content: about_muhammad.md
-      image_circular: true
-      more_info: >
-    - align: left
       image: alethea.jpeg
       content: about_alethea.md
       image_circular: true
       more_info: >
-
         
-
-friends_of_the_lab:
-    - image: Wenhan.png
-      name: Wenhan Lu
-      role: Broad Institute of Harvard and MIT
-    - image: yonho.png
-      name: Yon Ho Jee
-      role: Harvard School of Public Health
+ alumni:
+    - align: left
+      image: muhammad.png
+      content: aabout_muhammad.md
+      image_circular: true
+      more_info: >
     
 ---
