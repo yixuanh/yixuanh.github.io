@@ -9,7 +9,7 @@ nav_order: 5
 ### ASHG 2025
 **October 2025** Jiawei will be giving an oral presentation at AHSG 2025 in Boston, MA
 
-### New lab members
+### New lab member
 **September 2025** [Huiying](https://www.heylab.org/team/) has joined our lab, welcome
 
 ### Lab outing
