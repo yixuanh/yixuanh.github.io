@@ -40,7 +40,7 @@ profiles:
       content: about_alethea.md
       image_circular: true
       more_info: >
-  alumni:
+  lab_alumni:
     - align: left
       image: muhammad.png
       content: aabout_muhammad.md
