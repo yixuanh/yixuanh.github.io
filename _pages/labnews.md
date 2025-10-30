@@ -9,11 +9,11 @@ nav_order: 5
 ### ASHG 2025
 **October 2025** Jiawei gave a platform presentation at ASHG 2025 in Boston, MA
 
-<img src="{{ '/assets/img/ASHG25_4.jpeg' | relative_url }}" width="300"> <img src="{{ '/assets/img/ASHG25_3.jpeg' | relative_url }}" width="300"> 
+<img src="{{ '/assets/img/ASHG25_4.jpg' | relative_url }}" width="300"> <img src="{{ '/assets/img/ASHG25_3.jpg' | relative_url }}" width="300"> 
 
 **October 2025** We met Siqi in person for the first time
 
-<img src="{{ '/assets/img/ASHG25_1.jpeg' | relative_url }}" width="300"> <img src="{{ '/assets/img/ASHG25_2.jpeg' | relative_url }}" width="300"> 
+<img src="{{ '/assets/img/ASHG25_1.jpg' | relative_url }}" width="300"> <img src="{{ '/assets/img/ASHG25_2.jpg' | relative_url }}" width="300"> 
 
 ### New lab member
 **September 2025** [Huiying](https://www.heylab.org/team/) has joined our lab, welcome
