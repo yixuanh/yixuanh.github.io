@@ -43,6 +43,7 @@ profiles:
   
   lab_alumni:
     - align: left
+      image: muhammad.jpeg
       content: about_muhammad.md
       image_circular: true
       more_info: >
