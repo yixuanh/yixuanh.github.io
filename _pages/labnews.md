@@ -8,6 +8,7 @@ nav_order: 5
 ---
 ### Lab outing
 **June 2026** Dinner and dessert in Chinatown
+<img src="{{ '/assets/img/lab_06.jpg' | relative_url }}" width="300"> 
 
 ### ESHG 2026
 **June 2026** Yixuan presented a platform presentation on behalf of Jiawei at ESHG 2026 in Gothenburg, Sweden
