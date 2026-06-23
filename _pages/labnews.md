@@ -8,10 +8,13 @@ nav_order: 5
 ---
 ### Lab outing
 **June 2026** Dinner and dessert in Chinatown
+
 <img src="{{ '/assets/img/lab_06.jpg' | relative_url }}" width="300"> 
 
 ### ESHG 2026
 **June 2026** Yixuan presented a platform presentation on behalf of Jiawei at ESHG 2026 in Gothenburg, Sweden
+
+<img src="{{ '/assets/img/ESHG26.jpg' | relative_url }}" width="300"> 
 
 ### Manuscript published
 **February 2026** Our manuscript on multi-trait and multi-ancestry polygenic risk score has been published in [Nature Genetics](https://www.nature.com/articles/s41588-025-02470-1)
