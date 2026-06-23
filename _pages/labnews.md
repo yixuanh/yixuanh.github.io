@@ -6,6 +6,15 @@ description:
 nav: true
 nav_order: 5
 ---
+### Lab outing
+**June 2026** Dinner and dessert in Chinatown
+
+### ESHG 2026
+**June 2026** Yixuan presented a platform presentation on behalf of Jiawei at ESHG 2026 in Gothenburg, Sweden
+
+### Manuscript published
+**February 2026** Our manuscript on multi-trait and multi-ancestry polygenic risk score has been published in [Nature Genetics](https://www.nature.com/articles/s41588-025-02470-1)
+
 ### ASHG 2025
 **October 2025** Jiawei gave a platform presentation at ASHG 2025 in Boston, MA
 
