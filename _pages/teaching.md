@@ -7,8 +7,8 @@ nav: true
 nav_order: 3
 ---
 **What are the genetic signatures underlying disease heterogeneity across diverse populations?**  
-[Multi-trait and multi-ancestry genetic analysis of comorbid lung diseases and traits improves genetic discovery and polygenic risk prediction](https://www.medrxiv.org/content/10.1101/2024.08.25.24312558v2)  
-_He Y_, Lu W, Jee YH, et al. Nature Genetics (accepted)  
+[Multi-trait and multi-ancestry genetic analysis of comorbid lung diseases and traits improves genetic discovery and polygenic risk prediction](https://www.nature.com/articles/s41588-025-02470-1)
+_He Y_, Lu W, Jee YH, et al. Nature Genetics (2026)  
 
 **How do genetic and environmental factors interact in human disease?** <br />
 [We need more-diverse biobanks to improve behavioural genetics](https://www.nature.com/articles/s41562-023-01795-3)  
