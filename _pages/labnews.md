@@ -6,6 +6,11 @@ description:
 nav: true
 nav_order: 5
 ---
+### Jiawei passes her preliminary exam
+**July 2026** Congrats Jiawei!
+
+<img src="{{ '/assets/img/jiawei_prelim.jpg' | relative_url }}" width="300"> <img src="{{ '/assets/img/jiawei_prelim2.jpg' | relative_url }}" width="300"> 
+
 ### Lab outing
 **June 2026** Dinner and dessert in Chinatown
 
