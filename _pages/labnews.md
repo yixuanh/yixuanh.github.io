@@ -6,6 +6,9 @@ description:
 nav: true
 nav_order: 5
 ---
+### New lab members 
+**[Siqi](https://www.heylab.org/team/) and [Yixin](https://www.heylab.org/team/) joins us our lab, welcome 
+
 ### Jiawei passes her preliminary exam
 **July 2026** Congrats Jiawei!
 
