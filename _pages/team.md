@@ -36,7 +36,7 @@ profiles:
       image_circular: true
       more_info: >
     - align: right
-      image: yixin.jpeg
+      image: yixin.jpg
       content: about_yixin.md
       image_circular: true
       more_info: >
