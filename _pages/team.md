@@ -40,14 +40,14 @@ profiles:
       content: about_yixin.md
       image_circular: true
       more_info: >
-    - align: right
+    - align: left
       image: alethea.jpeg
       content: about_alethea.md
       image_circular: true
       more_info: >
   
   lab_alumni:
-    - align: left
+    - align: right
       image: muhammad.png
       content: about_muhammad.md
       image_circular: true
