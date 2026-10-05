@@ -1,0 +1,3 @@
+**<span style="font-size: 1.5em;">Yixin Su</span>**  
+<span style="color: #007acc;"><i>Computational Biologist </i></span>  
+Yixin received her M.S. in Biostatistics from Boston University. Her research interests focus on applying biostatistical and data science methods to longitudinal, wearable, and real-world health data to better understand disease risk, progression, and prevention. She is particularly interested in brain health, dementia, sleep and circadian rhythms, and the integration of genetic and other large-scale biomedical data. In her free time, Yixin enjoys swimming, knitting, and spending time with her dog, Toffee.
