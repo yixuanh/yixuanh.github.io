@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 ### PRIME Award 
-**October 2026** Yixuan receives the PRIME award from UTHealth SPH
+**October 2026** Yixuan receives the PRIME award from UTHealth SPH 
 
 ### New lab members 
 **September 2026** [Siqi](https://www.heylab.org/team/) and [Yixin](https://www.heylab.org/team/) joins us our lab, welcome 
