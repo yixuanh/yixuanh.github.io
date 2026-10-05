@@ -36,6 +36,11 @@ profiles:
       image_circular: true
       more_info: >
     - align: right
+      image: yixin.jpeg
+      content: about_yixin.md
+      image_circular: true
+      more_info: >
+    - align: right
       image: alethea.jpeg
       content: about_alethea.md
       image_circular: true
