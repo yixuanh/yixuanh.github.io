@@ -6,6 +6,13 @@ description:
 nav: true
 nav_order: 5
 ---
+### Jiawei successfully defends her proposal
+**November 2026** Congrats Jiawei!
+
+### November Gatherings
+**November 2026** The lab gathered over lunch for a genetics workshop as well as for Yixin visiting us in person. 
+<img src="{{ '/assets/img/geneticsworkshop.jpg' | relative_url }}" width="300"> <img src="{{ '/assets/img/nov_2026.jpeg' | relative_url }}" width="300"> 
+
 ### PRIME Award 
 **October 2026** Yixuan receives the PRIME award from UTHealth SPH 
 
