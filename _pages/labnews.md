@@ -13,6 +13,10 @@ nav_order: 5
 **November 2026** The lab gathered over lunch for a genetics workshop as well as for Yixin visiting us in person. 
 <img src="{{ '/assets/img/geneticsworkshop.jpg' | relative_url }}" width="300"> <img src="{{ '/assets/img/nov_2026.jpeg' | relative_url }}" width="300"> 
 
+### AACR Conference on The Science of Cancer Health Disparities 
+** Jiawei received the AACR Scholar-in-Training and presented a Poster Spotlight talk at the 19th AACR Conference on The Science of Cancer Health Disparities in Atlanta. Congrats!
+<img src="{{ '/assets/img/jiaweiaacr.jpg' | relative_url }}" width="300"> 
+
 ### PRIME Award 
 **October 2026** Yixuan receives the PRIME award from UTHealth SPH 
 
